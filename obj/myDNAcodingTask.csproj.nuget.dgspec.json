@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\David Cho\\source\\repos\\myDNAcodingTask\\myDNAcodingTask\\myDNAcodingTask.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\David Cho\\source\\repos\\myDNAcodingTask\\myDNAcodingTask\\myDNAcodingTask.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\David Cho\\source\\repos\\myDNAcodingTask\\myDNAcodingTask\\myDNAcodingTask.csproj",
+        "projectName": "myDNAcodingTask",
+        "projectPath": "C:\\Users\\David Cho\\source\\repos\\myDNAcodingTask\\myDNAcodingTask\\myDNAcodingTask.csproj",
+        "packagesPath": "C:\\Users\\David Cho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David Cho\\source\\repos\\myDNAcodingTask\\myDNAcodingTask\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\David Cho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

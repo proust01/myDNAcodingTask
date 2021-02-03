@@ -1,0 +1,13 @@
+C:\Users\David Cho\source\repos\myDNAcodingTask\myDNAcodingTask\bin\Debug\netcoreapp3.1\myDNAcodingTask.exe
+C:\Users\David Cho\source\repos\myDNAcodingTask\myDNAcodingTask\bin\Debug\netcoreapp3.1\myDNAcodingTask.deps.json
+C:\Users\David Cho\source\repos\myDNAcodingTask\myDNAcodingTask\bin\Debug\netcoreapp3.1\myDNAcodingTask.runtimeconfig.json
+C:\Users\David Cho\source\repos\myDNAcodingTask\myDNAcodingTask\bin\Debug\netcoreapp3.1\myDNAcodingTask.runtimeconfig.dev.json
+C:\Users\David Cho\source\repos\myDNAcodingTask\myDNAcodingTask\bin\Debug\netcoreapp3.1\myDNAcodingTask.dll
+C:\Users\David Cho\source\repos\myDNAcodingTask\myDNAcodingTask\bin\Debug\netcoreapp3.1\myDNAcodingTask.pdb
+C:\Users\David Cho\source\repos\myDNAcodingTask\myDNAcodingTask\obj\Debug\netcoreapp3.1\myDNAcodingTask.csprojAssemblyReference.cache
+C:\Users\David Cho\source\repos\myDNAcodingTask\myDNAcodingTask\obj\Debug\netcoreapp3.1\myDNAcodingTask.AssemblyInfoInputs.cache
+C:\Users\David Cho\source\repos\myDNAcodingTask\myDNAcodingTask\obj\Debug\netcoreapp3.1\myDNAcodingTask.AssemblyInfo.cs
+C:\Users\David Cho\source\repos\myDNAcodingTask\myDNAcodingTask\obj\Debug\netcoreapp3.1\myDNAcodingTask.csproj.CoreCompileInputs.cache
+C:\Users\David Cho\source\repos\myDNAcodingTask\myDNAcodingTask\obj\Debug\netcoreapp3.1\myDNAcodingTask.dll
+C:\Users\David Cho\source\repos\myDNAcodingTask\myDNAcodingTask\obj\Debug\netcoreapp3.1\myDNAcodingTask.pdb
+C:\Users\David Cho\source\repos\myDNAcodingTask\myDNAcodingTask\obj\Debug\netcoreapp3.1\myDNAcodingTask.genruntimeconfig.cache
